@@ -1,2 +1,8 @@
 # demo
-例子
+
+```shell
+git add .
+git commit -m ""
+git push
+git subtree push --prefix=dist origin gh-pages
+```
